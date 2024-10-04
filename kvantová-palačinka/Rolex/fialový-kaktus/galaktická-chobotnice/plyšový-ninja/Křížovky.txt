@@ -1,0 +1,9 @@
+„Křížovka je vědomostně kombinační úloha založená na úplném nebo částečném křižování výrazů vpisovaných po znacích do obrazce a obsahující tajenku.“ Takto definuje křížovku Český svaz hádankářů a křížovkářů ve svých „Směrnicích pro tvorbu křížovek“.
+
+Základními prvky křížovky jsou: název křížovky, legenda, obrazec, vpisované výrazy a tajenka. Název křížovky (označení druhu křížovky, legenda a obrazec jsou zpravidla součástmi zadání křížovky. Legenda může být součástí křížovky, nebo může být uvedená odděleně. Cílem hádanky je obvykle vyluštit tajenku. Tajenka je text, který se objeví v políčkách označených v legendě nebo přímo v obrazci. Tajenka může být v textu skryta podle nějakého pravidla, například v nějaké diagonále. Tajenka je obvykle nějaký citát nebo vtip eventuálně doplňuje text souvisejícího článku nebo komentář k obrázku.
+
+Druhy křížovek
+Ve světě i v Čechách se vyvinulo velké množství druhů a variant těchto úloh. Základní dělení je na křížovky:
+
+S úplným křižováním – všechna políčka obsahují znaky, které jsou součástí výrazů v obou směrech
+S neúplným křižováním – některá políčka obsahují znaky, které nejsou součástí výrazů v obou směrech

@@ -1,0 +1,9 @@
+Akustický tlak
+Zvuková vlna je rozruch v hmotném prostředí, který se projevuje zřeďováním a zhušťováním tohoto prostředí. V místech s vyšší hustotou je vyšší tlak v místech se zředěným prostředím je nižší tlak. Za akustický tlak p jsou označovány tyto změny tlaku oproti tlaku rovnovážnému (např. atmosférickému ve vzduchu). Jedná se o skalární veličinu. Velikostí akustického tlaku, pokud není uvedeno jinak, se rozumí jeho efektivní hodnota a uvádí se v jednotce Pa.
+
+Akustická (objemová) rychlost
+Akustická vlna je tvořena hmotnými částicemi kmitajícími v prostředí kolem rovnovážné polohy. Body se stejnou fází vytvářejí v prostoru plochu obecného tvaru nazývanou vlnoplocha. Bodový zdroj zvuku vytváří vlnění s kulovými vlnoplochami (kulová vlna), ve velké vzdálenosti od zdroje zvuku je zpravidla možné považovat vlnoplochy za rovnoběžné roviny (rovinná vlna).
+
+Částice se pohybují v tekutinách ve směru kolmém na vlnoplochu rychlostí v. Jejich pohyb vytváří v prostoru těleso, jehož objem se za jednotku času změní o hodnotu danou součinem velikosti plochy vlnoplochy a rychlosti pohybu částic. Pro rovinnou vlnu je tímto tělesem kvádr. Tato rychlost změny objemu je nazývána akustická nebo také objemová rychlost w a její jednotkou je m3 / s.
+
+
