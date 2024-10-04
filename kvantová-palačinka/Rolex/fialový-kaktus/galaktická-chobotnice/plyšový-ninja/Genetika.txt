@@ -1,0 +1,27 @@
+Genetika (z řeckého gennaó γενναώ = plodím, rodím) je biologická věda zabývající se dědičností (hereditou) i proměnlivostí organismů a jejími příčinami. Zkoumá zákonitosti přenosu genů na další generaci a vznik dědičných znaků.[1] Název genetika souvisí se slovem gen, které označuje jednotku genetické informace. V každém organismu je genetická informace přechovávána v chromozómech, kde je reprezentována chemickou strukturou molekuly DNA (deoxyribonukleové kyseliny).
+
+Základní poznatky o dědičnosti se používaly již od prehistorie při postupné domestikaci hospodářských zvířat a šlechtění užitkových rostlin. Ale až v roce 1906 poprvé použil William Bateson název genetika a definoval ji jako „studium křížení a šlechtění rostlin“. Základy genetiky položil brněnský přírodovědec Gregor Johann Mendel svými pokusy s křížením hrachu. Své poznatky však publikoval v méně známém časopise a tak zůstaly na delší dobu zapomenuty. Teprve později se vyvinula představa o genetice jako o vědě zabývající se dědičností organismů.
+
+Současná genetika poskytuje účinné nástroje pro zkoumání funkcí jednotlivých genů a pro pochopení molekulární podstaty dědičnosti. Tato prudce se rozvíjející část genetiky se nazývá molekulární genetika. Na jejím základě vznikl další obor genetické inženýrství, ve kterém jsou poznatky molekulární genetiky aplikovány v praxi (geneticky modifikované organismy).
+
+Historie genetiky
+
+Sedm znaků hrachu popsaných Gregorem Johannem Mendelem při jejich křížení
+Už v pravěku si lidé všímali přenosu určitých rysů z předků na potomky a patrně je i využívali ve šlechtitelství.
+Ve starověku se snažili učenci dědičnost znaků vysvětlit různými hypotézami o procesu předávání života. Podle některých myslitelů (Alkmaión, Hippokratés) se na něm podílelo mužské i ženské semeno, postupně však převládla představa mužského semene (sperma), které pak žena pouze živí (Hippón, Anaxagorás). Podoba nového organismu byla podle některých v semeni už přímo připravena (preformismus,
+
+Ovocná muška (Drosophila melanogaster) je oblíbeným modelovým organismem v genetickém výzkumu.
+Anaxagorás), kdežto podle Aristotela se teprve postupně vytvářela (epigeneze). Proti preformismu se postavili například William Harvey a René Descartes, přesto se udržel až do 19. století.
+Až do novověku se udržovala představa samoplození nižších živočichů, kterou až koncem 17. století vyvrátil Francesco Redi.
+Roku 1757 Carl Friedrich Wolff podrobně popsal vývoj kuřecího embrya z nediferencovaného žloutku a Karl Ernst von Baer roku 1828 vysvětlil funkci zárodečných listů.
+Prací řady vědců, včetně Jana Evangelisty Purkyně (1787–1869), vznikla obecná teorie buňky, v níž je třeba hledat předpoklady pro dědičnost vlastností a znaků. Velkým objevem bylo tvrzení, že při pohlavním rozmnožování vzniká nový život spojením samčí a samičí gamety v zygotu, jejímž dělením a diferencováním se buduje tělo organismu.
+
+Ukázka dědičnosti genu, který má dvě různé alely (modrou a bílou) a kde nosičem genu je otec i matka. Jejich potomstvo pak může zdědit tento gen ve čtyřech variantách.
+V 19. století studovala řada badatelů procesy křížení. Rozhodující výsledky přinesly pokusy brněnského kněze a šlechtitele Gregora Mendela s křížením hrachu. Mendel roku 1865 podrobně popsal, jak se výrazné rysy rodičů projeví v jejich potomcích a popsal jevy dominance a rekombinace. Jeho článek však nevyvolal žádný ohlas a jeho výsledky byly potvrzeny až roku 1900.
+Roku 1880 vyložil August Weismann, proč se získané vlastnosti rodičů nedědí, a po roce 1900 zavedl Hugo de Vries pojem mutace jako náhlé změny, jakou může vzniknout nový druh. Tím vzniklo jisté napětí mezi genetikou a darwinismem, protože Darwin předpokládal jen malé evoluční změny.
+Roku 1904 vyslovil Theodor Boveri hypotézu, že chromosomy jsou sídlem dědičné informace. Skupina kolem Thomase Morgana začala k pokusům používat octomilku, která se rychle množí. Prokázali tak existenci malých mutací, výměnu DNA (crossing-over) a předpokládali lineární uspořádání genů na chromosomu. Proti názoru, že dědičná informace je obsažena v celé buňce, tvrdil Hermann Joseph Muller, že je soustředěna pouze v chromosomech.
+Ve 20. letech vznikla z úvah J. B. S. Haldaneho a Ronald Fishera o tom, co se dál děje s recesivními geny, populační genetika.
+Roku 1935 bylo známo všech 20 aminokyselin, které tvoří bílkoviny.
+Dlouho se zdálo, že chemickým nosičem dědičné informace jsou bílkoviny. Teprve pokusy Osvalda Averyho 1944 prokázaly, že je to právě DNA, a rentgenografické zkoumání chromosomů pak vedlo k modelu dvojité šroubovice (James Watson a Francis Crick, 1953).
+Sovětská oficiální ideologie marxismu-leninismu zdůrazňovala „vliv prostředí“ proti zděděným vlastnostem. Využila proto práce politika a pseudovědce Trofima Denisoviče Lysenka a genetiku označovala za „buržoazní pavědu“. Její rozvoj se tak v SSSR i v zemích pod sovětským vlivem na řadu let zastavil (zhruba do pádu N. S. Chruščova v roce 1964). Zastánci genetiky byli pronásledováni a dokonce i fyzicky likvidováni (například N. Vavilov). Lysenkovu cenu (Le prix Lyssenko) každoročně uděluje francouzský Club de l'Horloge tomu, kdo „nejvíce přispěl k vědeckým a historickým dezinterpretacím s využitím ideologických metod a argumentů“.
+Podle S. Tishkoff z University of Pennsylvania jsou západní genetické výzkumy ještě i počátkem 21. století zkresleny tím, že mezi zkoumanými osobami převažují běloši.[2]
